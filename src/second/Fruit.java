@@ -11,7 +11,7 @@ public class Fruit {
 	
 	public void sayHello() {
 		
-		System.out.println("Hi i am an " + this.type);
+		System.out.println("Hi there, I am an " + this.type);
 		
 		
 	}
